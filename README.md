@@ -1,0 +1,2 @@
+# learnit
+To learn bioinformantics
