@@ -29,3 +29,15 @@ To learn bioinformantics
   - Advanced
 
 ## Tutorial
+
+# Linux
+**操作系统**
+- Shell
+- Bash
+  - Tips
+    1. 命令记忆 上下键
+    2. 补全 Tab
+    3. 别名快捷键 alias
+    4. 通配符 wildcard * ？
+    5. 脚本程序 bash script
+![图片](https://github.com/LynnJiangYH/learnit/assets/146846259/b50feff7-ffd4-4fda-a63e-ef2c4b7267a4)
